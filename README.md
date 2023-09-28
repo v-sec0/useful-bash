@@ -1,3 +1,4 @@
-# useful-bash
+# ![Bash](https://skillicons.dev/icons?i=bash) useful-bash
 
-![Bash](https://skillicons.dev/icons?i=bash) 
+### Summary
+ A collection of bash scripts that are tailored around **Fedora 39**.
