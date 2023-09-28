@@ -1,2 +1,3 @@
 # useful-bash
- A collection of personal bash scripts tailored around Fedora 39.
+
+![Bash](https://skillicons.dev/icons?i=bash) 
